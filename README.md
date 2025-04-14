@@ -1,7 +1,6 @@
 # mint-backgrounds-sarah
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-sarah?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-sarah-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-sarah-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-sarah)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-sarah`. Instead of building the
